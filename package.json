@@ -18,6 +18,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://seekr-test-2.herokuapp.com",
-  "homepage": "https://seekr-test-2.herokuapp.com"
+  "proxy": "http://localhost:5000"
 }

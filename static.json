@@ -5,7 +5,7 @@
   },
   "proxies": {
     "/api/": {
-      "origin": "https://seekr-test-2.herokuapp.com/"
+      "origin": "https://seekr-test-2.herokuapp.com"
     }
   }
 }
